@@ -18,12 +18,12 @@ To write a program to create a recursive function to reverse a string.
  
 
 ## Program:
-```py
-/*
+```
 Program to implement Reverse a String
 Developed by: KARAN A
 Register Number: 212223230099
-*/
+```
+```py
 def rev(a):
     if len(a)==0:
         return a
