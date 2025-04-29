@@ -11,7 +11,7 @@ To write a python program to sort the first half of the list using merge sort.
 5.Return the fully sorted array.   
 
 ## Program:
-```
+```py
 /*
 Program to implement Merge Sort
 Developed by: KARAN A
